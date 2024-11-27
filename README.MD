@@ -1,99 +1,81 @@
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
-</p>
+# 🎙️ Podcast: Jogo, Som e Diversão
 
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
+**"Onde aprendizado, educação e inclusão andam juntos!"**
 
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
-
-# Projeto Podcast Gerado por I.A.s
-
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
-
-## 💻 Tecnologias utilizadas no projeto
-
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
-
-## ✨ Como foi feito ?
-
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
-
-## 📚 Materiais
-
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+Bem-vindo ao repositório do **Podcast: Jogo, Som e Diversão**, criado para pais, mães e famílias que buscam um espaço educativo e inclusivo para seus filhos e filhas. Nossa missão é unir diversão e aprendizado em um ambiente acolhedor, respeitando o ritmo único de cada criança. 💖
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+## 📜 **Introdução**
+
+Neste podcast, falamos sobre como transformar o tempo em frente às telas em algo significativo e educativo. Inspirados por abordagens que priorizam o desenvolvimento saudável das crianças, nosso foco é oferecer conteúdos que promovam aprendizado e inclusão. 
+
+🎯 Nosso objetivo:
+- Criar experiências lúdicas e educativas para crianças típicas e neuroatípicas.  
+- Promover habilidades emocionais, sociais e cognitivas.  
+- Respeitar o ritmo de cada criança, sem pressão ou competição.  
+
+---
+
+## 🕹️ **Sobre os Jogos**
+
+Desenvolvemos jogos educativos e inclusivos, inspirados em conteúdos e canais infantis de alta qualidade, como:  
+
+- 🌟 **Mundo Bita**: Abordagens musicais e educativas.  
+- 🔬 **Show da Luna**: Curiosidades científicas de forma lúdica.  
+- 🎶 **Super Simple Songs**: Músicas animadas para ensinar conceitos básicos.  
+- 🌍 **Turma da Mônica**: Trabalha valores sociais e emocionais com identificação cultural.  
+- 🧠 **Daniel Tigre**: Habilidades sociais e emocionais para o dia a dia.  
+
+**Nossos jogos ajudam crianças a:**
+- Reconhecer letras, sons e padrões.  
+- Desenvolver habilidades sociais e emocionais.  
+- Explorar lógica e criatividade em um ambiente seguro.  
+
+🛡️ **Foco especial em crianças neuroatípicas**, oferecendo inclusão e respeito às suas características únicas.
+
+---
+
+## 👩‍💻 **Sobre Mim**
+
+Olá! Meu nome é **Lilian**. Sou neuroatípica e tenho TDAH. Desde que comecei meu tratamento há 13 anos, enfrentei desafios que me ensinaram a importância de ambientes acolhedores e respeitosos.
+
+✨ Minha jornada:  
+Após perder meus pais, decidi usar minhas habilidades como programadora para criar algo que ajudasse outras pessoas. Hoje, desenvolvo jogos inclusivos e educativos, com foco no aprendizado divertido e significativo para crianças neurotípicas e neuroatípicas.
+
+💡 **Missão**: Fazer a diferença na vida de crianças e suas famílias, oferecendo conteúdos que transformem o aprendizado em uma experiência especial.
+
+---
+
+## 📏 **Regras do Projeto**
+
+1. Respeito e acolhimento são essenciais para todos.  
+2. Feedbacks são sempre bem-vindos. Queremos ouvir suas sugestões e ideias!  
+3. Foco na inclusão e aprendizado. Este espaço é para criar um diálogo construtivo.  
+4. Sugestões de temas ou dúvidas podem ser enviadas a qualquer momento.  
+
+------
+
+_"Aprender e brincar podem caminhar juntos, criando momentos únicos."_  
+
+❤️ Obrigada por apoiar este projeto! Até a próxima!
+
+## 🚀 **Como Contribuir**
+
+Se você compartilha da nossa missão e deseja colaborar, siga estes passos:  
+1. Faça um **fork** deste repositório.  
+2. Envie suas sugestões, correções ou novas ideias para os jogos.  
+3. Submeta um **Pull Request** explicando suas contribuições.  
+
+---
+
+💌 **Entre em Contato**
+
+Se tiver dúvidas ou sugestões, adorarei ouvir sua opinião! Vamos juntos criar conteúdos que façam a diferença.  
+
+📧 Email: [bertolaccini55@gmail.com](mailto:bertolaccini55@gmail.com)  
+🌐 Site: [Jogo, Som e Diversão](https://gamepet-lilibertolaccinis-projects.vercel.app)
+📞 Celular: +55 (15) 99820-4054
+📷 Instagram: @lilibertola
+
+🌈✨🚀🎮 
