@@ -75,7 +75,9 @@ Se tiver dúvidas ou sugestões, adorarei ouvir sua opinião! Vamos juntos criar
 
 📧 Email: [bertolaccini55@gmail.com](mailto:bertolaccini55@gmail.com)  
 🌐 Site: [Jogo, Som e Diversão](https://gamepet-lilibertolaccinis-projects.vercel.app)
+
 📞 Celular: +55 (15) 99820-4054
+
 📷 Instagram: @lilibertola
 
 🌈✨🚀🎮 
