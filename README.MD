@@ -1,5 +1,15 @@
 # 🎙️ Podcast: Jogo, Som e Diversão
 
+
+![Capa do Ebook](https://github.com/LiliBertolaccini/prompts-for-podcast-generate-by-ia/raw/main/capa_ebook.png)
+
+## Ouça nosso Podcast!
+
+<audio controls>
+  <source src="https://github.com/LiliBertolaccini/prompts-for-podcast-generate-by-ia/raw/main/audio/seu-audio.mp3" type="audio/mpeg">
+  Seu navegador não suporta o elemento de áudio.
+</audio>
+
 **"Onde aprendizado, educação e inclusão andam juntos!"**
 
 Bem-vindo ao repositório do **Podcast: Jogo, Som e Diversão**, criado para pais, mães e famílias que buscam um espaço educativo e inclusivo para seus filhos e filhas. Nossa missão é unir diversão e aprendizado em um ambiente acolhedor, respeitando o ritmo único de cada criança. 💖
