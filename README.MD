@@ -152,7 +152,7 @@ Se tiver dúvidas ou sugestões, adorarei ouvir sua opinião! Vamos juntos criar
 
 🌐 Site: [Jogo, Som e Diversão](https://gamepet-lilibertolaccinis-projects.vercel.app)
 
-📞 **Celular:** [+55 (15) 99820-4054](tel:+5515998204054) 
+📞 **Celular:** [+55 (15) 99820-4054](tel:+5515998204054)  
 
 📷 **Instagram:** [@lilibertola](https://instagram.com/lilibertola)
 
