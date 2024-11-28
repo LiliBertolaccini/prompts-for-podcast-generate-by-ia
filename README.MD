@@ -5,12 +5,16 @@
 
 ## Ouça nosso Podcast!
 
+[Clique aqui para ouvir o podcast](https://github.com/LiliBertolaccini/prompts-for-podcast-generate-by-ia/raw/main/output/podcast_children_parents.mp3)
+
+
 <audio controls>
   <source src="https://github.com/LiliBertolaccini/prompts-for-podcast-generate-by-ia/raw/main/output/podcast_children_parents.mp3" type="audio/mpeg">
-  Seu navegador não suporta o player de áudio. <a href="https://github.com/LiliBertolaccini/prompts-for-podcast-generate-by-ia/raw/main/output/podcast_children_parents.mp3">Clique aqui para baixar o áudio</a>.
+  Seu navegador não suporta o player de áudio. <a href="https://github.com/LiliBertolaccini/prompts-for-podcast-generate-by-ia/raw/main/output/podcast_children_parents.mp3">
+Clique aqui para baixar o áudio </a>.
 </audio>
 
-[Clique aqui para ouvir o podcast](https://github.com/LiliBertolaccini/prompts-for-podcast-generate-by-ia/raw/main/output/podcast_children_parents.mp3)
+
 
 **"Onde aprendizado, educação e inclusão andam juntos!"**
 
