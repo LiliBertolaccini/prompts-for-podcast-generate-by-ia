@@ -13,7 +13,7 @@
 <audio controls>
   <source src="https://github.com/LiliBertolaccini/prompts-for-podcast-generate-by-ia/raw/main/output/podcast_children_parents.mp3" type="audio/mpeg">
 <a href="https://github.com/LiliBertolaccini/prompts-for-podcast-generate-by-ia/raw/main/output/podcast_children_parents.mp3">
-Clique aqui para baixar o áudio </a>.
+Clique aqui para baixar o áudio </a>
 
 Seu navegador não suporta o player de áudio.</audio>
 
